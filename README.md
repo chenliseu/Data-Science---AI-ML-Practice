@@ -20,5 +20,5 @@ Analysis breask cancer data and find out what strong influencer
 Movie Recommender enginee using stochastic gradient descent, SVD, and user/item based collaborative filltering
 
 # Deep Learning
-simple one layer and two layer neuro network build in less than 50 line of code!
-Use TensorFlow deep learning algorithm to predict housing price in seattle
+## simple one layer and two layer neuro network build in less than 50 line of code!
+## Use TensorFlow deep learning algorithm to predict housing price in seattle
