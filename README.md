@@ -24,4 +24,4 @@ Movie Recommender enginee using stochastic gradient descent, SVD, and user/item 
 ## Use TensorFlow deep learning algorithm to predict housing price in seattle
 
 # CNN - Convolutional Neural Network
-##  Simple Convolutional Neural Network from scatch, with two layer ( convulutional and maxpool )
+##  Simple Convolutional Neural Network from scatch, with two layer ( convolutional and maxpool )
