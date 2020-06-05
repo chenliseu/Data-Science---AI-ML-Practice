@@ -2,7 +2,8 @@
 The AI/ML prediction practice projects is based on course works. It covers the following algorithoms.
 
 # Linear Regression
-Predict USA Housing Price 
+## Predict USA Housing Price using sklearn Library 
+## Predict USA Housing Price using numpy from scratch
 
 # Logistic Regression
 Predict Titanic ship Survial chance
